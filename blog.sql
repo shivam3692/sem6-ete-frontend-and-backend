@@ -75,8 +75,7 @@ INSERT INTO `users` (`id`, `username`, `email`, `password`, `img`) VALUES
 (1, 'shivam', 'shivamgulati', '$2a$10$RhWRs4hdnJPAQBikGyLpwOilp1kRMKQC2AOjC6/C9SwqI8pSE7xhC', NULL),
 (2, 'admin', 'shivamgulati9466@gmail.com', '$2a$10$20rxqKgKPYAgLeJTMhd4zu2d5Z8VS55UTXW.hDI5nLDMhADMpGjgy', NULL),
 (3, 'shivam123', 'shivam@gmail.com', '$2a$10$uY6jCRZG6MMo.ifZfMMMpu2G4lA4rtngORgLZiLFYSDm4uWFDYoTK', NULL),
-(4, 'vinay', 'vinay@gmail.com', '$2a$10$X9UQ0akU6fXLkLj5ZLoxgO9fnazthI1cQsfyWzHlT30VF1oBRUky2', NULL),
-(5, 'Sneha', 'snehagoyal7759@gmail.com', '$2a$10$95vMWXWXvyWtVz34Am7gFOIgB1PpONfoqsGU/JADl7erNkBCPUsOu', NULL);
+(5, 'Sneha', 'sneha9@gmail.com', '$2a$10$95vMWXWXvyWtVz34Am7gFOIgB1PpONfoqsGU/JADl7erNkBCPUsOu', NULL);
 
 --
 -- Indexes for dumped tables
